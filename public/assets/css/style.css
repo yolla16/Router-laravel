@@ -1,0 +1,109 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#ellipse{
+  background-image: url('../img/Ellipse.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 100vh;
+  width: 100%;
+  /* border: 1px solid black; */
+}
+
+/* page */
+
+#my_service{
+  height: 80vh;
+  width: 100%;
+  position: relative;
+  margin-top: 7rem;
+  padding: 60px;
+  /* border: 1px solid black; */
+}
+
+#about_me{
+  height: 80vh;
+  width: 100%;
+  margin-top: 7rem;
+  /* border: 1px solid black; */
+}
+
+#project{
+  height: 100vh;
+  width: 100%;
+  margin-top: 10rem;
+  /* padding: 40px; */
+  /* border: 1px solid black; */
+}
+
+#vidio{
+  margin-left: 300px;
+}
+
+#contact{
+  height: 80vh;
+  width: 100%;
+  margin-top: 10rem;
+  padding: 40px;
+  /* border: 1px solid black; */
+}
+
+
+.square{
+  /* border: 1px solid black; */
+  padding-top: 60px;
+  padding-left: 70px;
+}
+
+
+.img-portofolio{
+  width: 300px;
+  height: 240px;
+}
+
+.img-contact{
+  width: 350px;
+  height: 300px;
+  /* border: 1px solid black; */
+}
+
+
+.inp-text{
+  color: white;
+  background-color: #C6C6C6;
+  padding: 25px;
+  border-radius: 5px;
+  border: none;
+}
+
+.inp-text:focus{
+  color: white;
+  background-color: #C6C6C6;
+  padding: 25px;
+  border-radius: 5px;
+}
+
+#footer{
+  width: 100%;
+  margin-top: 5rem;
+  height: 50vh;
+  padding: 40px;;
+  background-color: #5D5BB6;
+}
+
+#footer ul li{
+  display: inline;
+  padding-right: 2rem;
+}
+
+.btn-circle{
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  border-radius: 30px;
+}
+

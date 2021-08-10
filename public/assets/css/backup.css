@@ -1,0 +1,81 @@
+
+
+#ellipse{
+  background-image: url('../img/Ellipse.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 100vh;
+  width: 100%;
+  /* border: 1px solid black; */
+}
+
+#about_me{
+  height: 80vh;
+  width: 100%;
+  margin-top: 8rem;
+  /* border: 1px solid black; */
+}
+
+.square{
+  /* border: 1px solid black; */
+  padding-top: 60px;
+  padding-left: 70px;
+}
+
+#my_service{
+  height: 80vh;
+  width: 100%;
+  margin-top: 7rem;
+  padding: 60px;
+  /* border: 1px solid black; */
+}
+
+#portofolio{
+  height: 100vh;
+  width: 100%;
+  margin-top: 10rem;
+  /* padding: 40px; */
+  /* border: 1px solid black; */
+}
+
+
+.img-portofolio{
+  width: 300px;
+  height: 240px;
+}
+
+.img-contact{
+  width: 350px;
+  height: 300px;
+  /* border: 1px solid black; */
+}
+
+#contact{
+  height: 80vh;
+  width: 100%;
+  margin-top: 10rem;
+  padding: 40px;
+  /* border: 1px solid black; */
+}
+
+.inp-text{
+  color: white;
+  background-color: #C6C6C6;
+  padding: 25px;
+  border-radius: 5px;
+  border: none;
+}
+
+.inp-text:focus{
+  color: white;
+  background-color: #C6C6C6;
+  padding: 25px;
+  border-radius: 5px;
+}
+
+#footer{
+  width: 100%;
+  margin-top: 5rem;
+  height: 80px;
+  background-color: blue;
+}
